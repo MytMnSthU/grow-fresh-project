@@ -13,4 +13,10 @@
   <li>NANG SHWE HTAY</li>
   <li>MYAT MIN SITHU(Me)</li>
 </ul>
+<h2>Languages</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+ </ul>
 <p>Demo link -<a href="https://mytmnsthu.github.io/grow-fresh-project/">Grow Fresh</a></p>
